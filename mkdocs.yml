@@ -57,3 +57,4 @@ theme:
      - navigation.expand
      - toc.follow
 
+use_directory_urls: true
