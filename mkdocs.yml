@@ -4,6 +4,8 @@ use_directory_urls: true
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
 
 plugins:
   - tags
@@ -37,9 +39,11 @@ nav:
      - Mango salsa: opskrifter/salat/mango-salsa.md
      - Pico de gallo: opskrifter/salat/pico-de-gallo.md
   - Safter:
+     - Lemonade: opskrifter/safter/lemonade.md
      - æblecider: opskrifter/safter/æblecider.md
   - Svinekød:
      - Asiatisk svinekød: opskrifter/svinekød/asiatisk-kødsovs.md
+     - Carnitas: opskrifter/svinekød/carnitas.md
      - Svinemørbrad med hasselnødder: opskrifter/svinekød/svinemørbrad-med-hasselnødder.md
   - Sylt:
      - Syltet banan chili: opskrifter/sylt/syltet-banan-chili.md

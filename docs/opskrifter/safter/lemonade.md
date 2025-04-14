@@ -1,11 +1,18 @@
 ---
+title: "Lemonade"
+author: "Jonas Nørgård"
 tags:
-   - saft
+  - Saft
+  - Sirup
+  - Sommer
 ---
 
 # Lemonade
 
-![alt text](../../attachments/lemonade.png)
+<figure markdown="span">
+  ![Image title](../../attachments/lemonade.png){ width="500" }
+  <figcaption>Lemonade</figcaption>
+</figure>
 
 ## Limesirup:
 ### Ingredienser
