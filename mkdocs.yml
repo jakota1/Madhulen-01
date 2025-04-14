@@ -1,3 +1,7 @@
+site_name: Madhulen
+site_url: https://www.madhulen.dk
+use_directory_urls: true
+
 markdown_extensions:
   - admonition
 
@@ -56,5 +60,3 @@ theme:
      - navigation.sections
      - navigation.expand
      - toc.follow
-
-use_directory_urls: true
