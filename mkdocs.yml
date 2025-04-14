@@ -1,0 +1,59 @@
+markdown_extensions:
+  - admonition
+
+plugins:
+  - tags
+  - search
+
+site_name: Madhulen
+nav:
+  - Forside: index.md
+  - Dressing og sauce:
+     - Baba ganoush: opskrifter/dressing-og-sauce/baba-ganoush.md
+     - Bordelaise sauce: opskrifter/dressing-og-sauce/bordelaise-sauce.md
+     - Chili olie: opskrifter/dressing-og-sauce/chili-olie.md
+     - Haydari: opskrifter/dressing-og-sauce/haydari.md
+  - Kylling:
+     - Kylling fajitas: opskrifter/kylling/kylling-fajitas.md
+     - Kylling fricassee: opskrifter/kylling/kylling-fricassee.md
+     - Kylling i paprikasauce: opskrifter/kylling/kylling-i-paprikasauce.md
+     - Kylling kebab: opskrifter/kylling/kylling-kebab.md
+     - Kylling piccata: opskrifter/kylling/kylling-piccata.md
+  - Oksekød:
+     - Langtidssimret mexicansk revet oksekød: opskrifter/oksekød/langtidssimret-mexicansk-revet-oksekød.md
+     - Oksekød birria tacos: opskrifter/oksekød/oksekød-birria-tacos.md
+     - One-pot mexicansk pasta med oksekød og cheddar: opskrifter/oksekød/one-pot-mexicansk-pasta-med-oksekød-og-cheddar.md
+     - Shish kebab: opskrifter/oksekød/shish-kebab.md
+     - Spaghetti bolognese: opskrifter/oksekød/spaghetti-bolognese.md
+     - Stir fry med grønnebønner: opskrifter/oksekød/stir-fry-med-grønne-bønner.md
+     - Wok med oksekød: opskrifter/oksekød/wok-med-oksekød.md
+  - Salat:
+     - Courcous og tomat salat: opskrifter/salat/couscous-tomat-salat.md
+     - Kikærtesalat med feta og krydret marinade: opskrifter/salat/kikærtesalat-med-feta-og-krydret-marinade.md
+     - Mango salsa: opskrifter/salat/mango-salsa.md
+     - Pico de gallo: opskrifter/salat/pico-de-gallo.md
+  - Safter:
+     - æblecider: opskrifter/safter/æblecider.md
+  - Svinekød:
+     - Asiatisk svinekød: opskrifter/svinekød/asiatisk-kødsovs.md
+     - Svinemørbrad med hasselnødder: opskrifter/svinekød/svinemørbrad-med-hasselnødder.md
+  - Sylt:
+     - Syltet banan chili: opskrifter/sylt/syltet-banan-chili.md
+     - Syltet rødkål: opskrifter/sylt/syltet-rødkål.md
+     - Syltet rødløg: opskrifter/sylt/syltet-rødløg.md
+     - Æblecidereddike: opskrifter/sylt/æblecidereddike.md
+  - Tilbehør:
+     - Ovn ristet grøntsager: opskrifter/tilbehør/ovn-ristet-grøntsager.md
+     - Rösti: opskrifter/tilbehør/rösti.md
+     - Selleri Pure: opskrifter/tilbehør/selleri-pure.md
+
+theme: 
+  name: material
+  features:
+     - navigation.instant
+     - navigation.tracking
+     - navigation.tabs
+     - navigation.sections
+     - navigation.expand
+     - toc.follow
+
