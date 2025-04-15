@@ -14,6 +14,8 @@ plugins:
 site_name: Madhulen
 nav:
   - Forside: index.md
+  - Brød:
+     - Pizza: opskrifter/brød/pizza.md
   - Dressing og sauce:
      - Baba ganoush: opskrifter/dressing-og-sauce/baba-ganoush.md
      - Bordelaise sauce: opskrifter/dressing-og-sauce/bordelaise-sauce.md
