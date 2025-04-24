@@ -26,7 +26,7 @@ Opskriften på denne dej kommer fra dengang jeg var på pizzakursus hos Jon fra 
 ### Pizzadej til 4 pizzadeje á 250g 
 - 600 g italiensk tipo 00 mel
 - 415 g koldt vand
-- 1-2 g fær (eller 0,5 tsk. tørgær eller 80g aktiv surdej)
+- 1-2 g gær (eller 0,5 tsk. tørgær eller 80g aktiv surdej)
 - 14g fint salt
 
 ## 👩‍🍳 Fremgangsmåde
