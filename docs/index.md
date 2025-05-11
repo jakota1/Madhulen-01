@@ -47,12 +47,78 @@ Velkommen til min samling af opskrifter! Her finder du alt fra lækre hovedrette
 
 ---
 
-## 🌟 Inspiration hos Andre
+## Inspiration
+
+### Inspiration fra Japan
+- Japansk kimchi
+- Soya- og eddike dressing
+- Creamet ægge sandwich
+- Okonomiyaki m. bønnespire, kål, bacon og forårsløg
+- Gyoza
+- Fint snittet hvidkål med sesam dressing og citron
+- Karaage
+
+### Nye retter til at prøve af
+- Kyllingeterine
+
+### Allerede lavede retter
+- **Asiatisk**
+    - Ramen
+    - Chicken tikka masala
+    - Ris med asiatisk kødsauce
+    - Stegte nudler
+    - Stir fry m. oksekød
+    - Ris med rød thai karry
+    - Stegte ris med indbagt kylling
+    - Wok Nudler med oksekød, gulerødder og squash
+    - Bahn mi
+- **Europæisk**
+    - Lasagne
+    - Bolognese
+    - Mørbrad m. bacon/hasselnødstopping, kartofler i ovn og champignon sauce m. hvidvin
+    - Pizza
+    - Knuste kartofler, steg og champignonsauce
+    - Pasta m. Kylling, pancette, svampe og spinat
+    - Friskbagte pitabrød med kylling
+    - Burger med kartoffelbåde
+    - Orzo med kylling og soltørrede tomater
+    - Pannini med kylling og bacon
+    - Kyllingelår m. dobbeltbagt kartoffel og blomkålssalat
+    - Bøffer med kartofler og bernaise sauce
+    - Tagiatelle m. Kylling, pancetta og soltørrede tomater i tomat/paprika sovs
+    - Airfryed flæskesteg m. bønnefritter/kartofler og sovs
+    - Oksecuvette med kartofler og svampesauce
+    - Pastaret med kantareller og chorizo
+    - Rösti med kyllingelår og grøn salat
+    - Flæskesteg på grill m. Knuste kartofler i kryddersmør
+    - Kyllinge/grøntsagsspyd m. salat, dypppe dyppe og brød
+- **Mexikansk**
+    - Mexicansk one pot
+    - Chili corn Carne
+    - Soft tacos
+    - Burritos
+    - Quesadillas m. mexisalater
+    - langtidssimret oksekød
+- **Mellemøstlig**
+    - Arabiske frikadeller med kikærtesalat
+    - Kebab / kebabmix
+    - Fladbrød, couscous og bagte blomkål med kikærter
+
+
+
+
+
+
+---
+
+## Øl illustration
+
+![øl illustration](attachments/øl-illustration.drawio.png)
+
+---
+
+## 🌟 Inspiration hos bloggere
 - [Life By Mike G](https://lifebymikeg.com/)
 - [Martinys Blog](https://martinys.dk/verdenskoekken/mellemoestlig/)
 
 ---
-
-![øl illustration](attachments/øl-illustration.drawio.png)
-
-
