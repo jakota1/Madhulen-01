@@ -48,5 +48,16 @@ tags:
 5. Servering:
     - For at servere, læg et kyllingebryst på en tallerken og hæld saucen over det. Drys med mere estragon, hvis ønsket.
 
+
+## 🥗 Serveringsforslag
+---
+
+Server med:
+- [Perlebyg](../tilbehør/perlebyg.md)
+
+
+## 📚 Kilder & Inspiration
+---
+
 !!! info "Lignende opskrifter"
     - [FoolProofLiving - Chicken Fricassee](https://foolproofliving.com/chicken-fricassee/)
