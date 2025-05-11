@@ -11,7 +11,7 @@ tags:
 # Perlebyg
 
 <figure markdown="span">
-  ![Image title](docs/attachments/perlebyg.png){ width="500" }
+  ![Image title](../../attachments/pizza.png){ width="500" }
   <figcaption>perlebyg</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ tags:
 ## 🛒 Ingredienser
 ---
 
-### Ingredienser (4-5 personer)
+### Ingredienser (5 personer)
 - 4 dl perlebyg
 - 10 dl grøntsags- eller hønsebouillon
 - 2 små skalotteløg eller 1 løg, finthakket

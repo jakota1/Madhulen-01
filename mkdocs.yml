@@ -2,6 +2,16 @@ site_name: Madhulen
 site_url: https://www.madhulen.dk
 use_directory_urls: true
 
+theme: 
+  name: material
+  features:
+     - navigation.instant
+     - navigation.tracking
+     - navigation.tabs
+     - navigation.sections
+     - navigation.expand
+     - toc.follow
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -11,7 +21,9 @@ plugins:
   - tags
   - search
 
-site_name: Madhulen
+extra_javascript:
+   - password.js
+
 nav:
   - Forside: index.md
   - Brød:
@@ -58,13 +70,3 @@ nav:
      - Rösti: opskrifter/tilbehør/rösti.md
      - Selleri Pure: opskrifter/tilbehør/selleri-pure.md
      - Perlebyg: opskrifter/tilbehør/perlebyg.md
-
-theme: 
-  name: material
-  features:
-     - navigation.instant
-     - navigation.tracking
-     - navigation.tabs
-     - navigation.sections
-     - navigation.expand
-     - toc.follow

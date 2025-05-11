@@ -12,7 +12,7 @@ tags:
 
 <figure markdown="span">
   ![Image title](../../attachments/pizza.png){ width="500" }
-  <figcaption></figcaption>
+  <figcaption>Pizza</figcaption>
 </figure>
 
 ## 📝 Introduktion
