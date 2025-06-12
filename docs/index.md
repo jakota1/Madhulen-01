@@ -51,6 +51,3 @@ Velkommen til min samling af opskrifter! Her finder du alt fra lækre hovedrette
 - [Life By Mike G](https://lifebymikeg.com/)
 - [Martinys Blog](https://martinys.dk/verdenskoekken/mellemoestlig/)
 
----
-
-![øl illustration](attachments/øl-illustration.drawio.png)
