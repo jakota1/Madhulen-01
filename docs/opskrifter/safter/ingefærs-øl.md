@@ -48,22 +48,27 @@ tags:
 ## Ginger beer
 ___
 
-<figure markdown="span">
-<video width="" height="" controls>
-  <source src="../../attachments/ginger-bug-01.mp4" type="video/mp4">
-</video>
-  <figcaption>Ginger bug</figcaption>
-</figure>
+
+<div style="text-align: center;">
+  <video controls style="height: 480px;">
+    <source src="/videos/ginger-bug-01.mp4" type="video/mp4">
+  </video>
+  <div>Er fremvises processen for at lave ginger buggen</div>
+</div>
 
 
-<figure markdown="span">
-<video width="" height="" controls>
-  <source src="docs/attachments/ginger-beer-01.mp4" type="video/mp4">
-</video>
-  <figcaption>Ginger beer</figcaption>
-</figure>
+<br>
+<br>
+<br>
 
 
+
+<div style="text-align: center;">
+  <video controls style="height: 480px;">
+    <source src="/videos/ginger-beer-01.mp4" type="video/mp4">
+  </video>
+  <div>Dette er processen for at bruge ginger buggen til at lave ginger beer</div>
+</div>
 
 ## Referencer
 
