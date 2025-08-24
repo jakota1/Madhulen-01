@@ -36,12 +36,15 @@ nav:
   - Hele Måltider:
      - Grillet svinekoteletter med sommer kartofler og sommersalat: opskrifter/hele-måltider/koteller-med-sommerkartofler-og-sommersalat.md
      - Grillet svinemørbrad med blandede rodfrugter: opskrifter/hele-måltider/grillet-svinemørbrad-med-blandede-rodfrugter.md
+     - Tacos med Carnitas: opskrifter/hele-måltider/tacos-med-carnitas.md
   - Kylling:
      - Kylling fajitas: opskrifter/kylling/kylling-fajitas.md
      - Kylling fricassee: opskrifter/kylling/kylling-fricassee.md
      - Kylling i paprikasauce: opskrifter/kylling/kylling-i-paprikasauce.md
      - Kylling kebab: opskrifter/kylling/kylling-kebab.md
      - Kylling piccata: opskrifter/kylling/kylling-piccata.md
+  - Marmelade:
+     - Blomme marmelade: opskrifter/marmelade/blomme-marmelade.md
   - Oksekød:
      - Chutneyglaseret oksekød: opskrifter/oksekød/chutneyglaseret-oksekød.md
      - Langtidssimret mexicansk revet oksekød: opskrifter/oksekød/langtidssimret-mexicansk-revet-oksekød.md
@@ -54,8 +57,6 @@ nav:
   - Salat:
      - Courcous og tomat salat: opskrifter/salat/couscous-tomat-salat.md
      - Kikærtesalat med feta og krydret marinade: opskrifter/salat/kikærtesalat-med-feta-og-krydret-marinade.md
-     - Mango salsa: opskrifter/salat/mango-salsa.md
-     - Pico de gallo: opskrifter/salat/pico-de-gallo.md
   - Safter:
      - Hyldeblomst saft: opskrifter/safter/hyldeblomst-saft.md
      - Ingefærs øl: opskrifter/safter/ingefærs-øl.md
@@ -64,7 +65,6 @@ nav:
      - Øl: opskrifter/safter/øl.md
   - Svinekød:
      - Asiatisk svinekød: opskrifter/svinekød/asiatisk-kødsovs.md
-     - Carnitas: opskrifter/svinekød/carnitas.md
      - Svinemørbrad med hasselnødder: opskrifter/svinekød/svinemørbrad-med-hasselnødder.md
   - Sylt:
      - Syltet banan chili: opskrifter/sylt/syltet-banan-chili.md
